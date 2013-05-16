@@ -100,5 +100,4 @@ public class ApplicationLauncher extends ListActivity {
             }
         }
     }
-
 }
